@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quarre",
+  "private_key_id": "603e8ceac1827b2705a920363660f4d538e17386",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRB8f7I3lr1dNW\nwU7mUJK0TA1PTw5xnf668xgY4c8RNStt8H2HDfmKjeoPUzJk3lPho7aZfIV+iGsX\nJw/LPVab/pejcmltz1VD0vatqjpNciBDT+gSxP1VV6dwe3QCMqbrG/Mx+kCknS8M\nadqCCF/qydEXfMKL1JPEnvAOOUovFdtpanhb0xuYCZFzb9A58wGZ0oM0mQBqa87q\n0/P2V7iCcX1beEBPGDVQb+X4eoasnEQubIJP64+XpDBleuyMKbGyWDap1m7Lgam3\nq25whosF2fClqgGGzv5TIFmKWhVvvtnVk9a1bvSl9ZFqye2X5Y+JW9QCTgX5wJgd\nByxqzqzTAgMBAAECggEAO+dQYTmSVgmwbNWUnsnqBqGhH8CCMUi2pgZxzhk6+5sQ\nEK10U9vgVivu4RyWpJY2ZG1IJ1aJFy4Gub3vJp3zz6QVgzPnOy2XxNd2/11gDowU\nqmjvbQ1DrEPzy6CaVqwQSO03As4gdD3eaIyybeJCqAprHH3yJ2qLDHwvoFhmfVK0\n8ZPy4zcpRAIwbZUyspO/ol8nOzoPfh6ElvX/UGR9O1gS1sHJNSH1wrxiZ++tKgfb\nrxA41nL084/OlXOZvkoCJC7hBopNoinkLGBsNh8eh8iSGY5H7a4fG4tCekI4sQZ5\nZcVb4ei+whCyyMK1FN99hzwUFq1/KlV8bojP8XFQgQKBgQDLTPXASjJ4miLfX5Tv\nIfiShG3urmblBBsXiKOFfvK7tigU5Jn3W0pzV7uTKq4nkIUvMOnmzAuuPFlHfgNE\nfb7IHMDSyrVLr7MVOabtmIQrxRw7fK0BAZutZtq3wmTWnDakZzD3xcvMrTFDq68o\nnx0iUF19n0T7G7t6+kdg0zutgQKBgQC2oAF4TXPwDTtKUhr8jy+dOBVsRpf9znxO\nmnfBMGMuFKoAZRU9oNIMKmZ4kC8twqsA+GKjeME/49ZJpylvRGpeiy8AEQNCqaUW\noSBVts6OE3ui71zCq8aQ1SyYDxjxHVpY2IpIMju4ymr0PpnewE8WeF1iI8CIBRhu\npr6xmMNsUwKBgQCtNRh7h7uQfOIRJcIiKvM5AZMXs4b+v4zFdCi9Z/cubneftVRo\nJmM7+hdZvxc5piuSlT3y4Q1imRAHlRj7lZahr72o2gO0RDFzd/b8nuCc2ga/t+09\n2jzkc6kMvpZjMhxr3W8e6mpEK5q5aOCG32lW/tloWfXPa0VD9VAy8kT6AQKBgQCZ\n/W9f3oddKfsNnw/sWFxAyJKf2yK8O8lriipidweaSohSjumLLrkO0w3WqVVu04/X\n4Jlj2CWzVs1RC6gPj3PVxqzZ9H54To3K+BBI1j1zZZBCAm2IJMnpRCc3DLvuS97r\nvaNUXy8mkWAAFW0ve570hofPgfANgaZpXya6n+JgywKBgAqL13Ay0OpeRivZZJHs\nnLo0ADEToy2s3Jcqn6HHPAwrqLi1H46mbzxLg+3rpfK0EmJBC3Bt+NBD4QuhpnII\n1M9whoplMbMFHX1/mnt/R/CUUlesm0VT4O60TPwghbnjY5WglnKHitKY5fe6d7g5\nhrgf1lYr3fZ+y2x5kHcDuMah\n-----END PRIVATE KEY-----\n",
+  "client_email": "quarre-mp3-cloud@quarre.iam.gserviceaccount.com",
+  "client_id": "106764885821807570578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quarre-mp3-cloud%40quarre.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
